@@ -28,7 +28,7 @@
         <activity android:name=".Project4Activity" android:exported="false"></activity>
         <activity android:name=".Project5Activity" android:exported="false"></activity>
         <activity android:name=".Project6Activity" android:exported="false"></activity>
-
+        <activity android:name=".Project7Activity" android:exported="false"></activity>
     </application>
 
 </manifest>
